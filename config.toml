@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://marceloreyran.github.io/My_Blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Marcelo"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
@@ -13,7 +13,7 @@ paginate = 3
 [params]
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  twitter_handle = "@_MarceloRR"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
