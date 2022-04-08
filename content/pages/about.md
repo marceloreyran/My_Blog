@@ -2,8 +2,8 @@
 title: 'Acerca de mi'
 menu:
   main:
-    name: "Marcelo"
----
+   
+   name: "Marcelo" 
 
 
 
