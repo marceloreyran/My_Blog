@@ -1,7 +1,9 @@
 ---
-title: "Mis expectativas"
-date: 2022-02-21T18:16:21-06:00
+title: "La Cultura de un Desarrollad@r de Software"
+date: 2022-04-08
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+Hola!
+
+Como hemos visto, el software forma parte de nuestra sociedad y está profundamente integrado en las infraestructuras y los sistemas que determinan nuestras acciones cotidianas. Además, el software tiene una dimensión cultural que conecta con el deseo de crear y manipular el mundo por medio de la palabra o de un conjunto de códigos.
