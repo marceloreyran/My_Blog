@@ -5,7 +5,7 @@ description: 'Mi Travesía en Launch X de Innovacción Virtual.'
 ---
 
 
-Hola! Quiero contarte todo lo que he aprendido en el este camino:
+Hola! Quiero contarte todo lo que he aprendido en este camino:
 
 
 -Logica de Programación
