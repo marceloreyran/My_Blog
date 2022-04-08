@@ -8,12 +8,19 @@ Hola! Quiero contarte todo lo que he aprendido en el este camino:
 
 
 -Logica de Programación
+
 -Python
+
 -Jupyter Notebooks
+
 -Git 
+
 -GitHub
+
 -HTML
+
 -CSS
+
 -Java Script
 
 
