@@ -4,6 +4,7 @@ date: 2022-04-08
 description: 'Mi Travesía en Launch X de Innovacción Virtual.'
 ---
 
+
 Hola! Quiero contarte todo lo que he aprendido en el este camino:
 
 
@@ -22,6 +23,7 @@ Hola! Quiero contarte todo lo que he aprendido en el este camino:
 -CSS
 
 -Java Script
+
 
 
 Gracias por leer mi post.
