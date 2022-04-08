@@ -3,13 +3,15 @@ title: 'Acerca de mi'
 menu:
   main:
    
-   name: "Marcelo" 
+   name: "About me" 
 
 
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-Hola Mi nombre es Marcelo Reyna Rangel @marceloreyran , soy Ingeniero en Tecnologías de Software.
+Mi nombre es Marcelo Reyna Rangel @marceloreyran , soy de Monterrey Nuevo león.
+
+Soy Ingeniero en Tecnologías de Software.
 
 
  
