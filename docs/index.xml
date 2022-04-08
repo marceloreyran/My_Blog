@@ -18,6 +18,17 @@ Como hemos visto, el software forma parte de nuestra sociedad y está profundame
     </item>
     
     <item>
+      <title>Mi Ruta de aprendizaje en Launch X</title>
+      <link>https://marceloreyran.github.io/My_Blog/posts/post_1/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marceloreyran.github.io/My_Blog/posts/post_1/</guid>
+      <description>Hola! Quiero contarte todo lo que he aprendido en el este camino:
+-Logica de Programación -Python -Jupyter Notebooks -Git -GitHub -HTML -CSS -Java Script
+Gracias por leer mi post.</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://marceloreyran.github.io/My_Blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

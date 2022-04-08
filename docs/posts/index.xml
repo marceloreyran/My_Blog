@@ -17,5 +17,16 @@
 Como hemos visto, el software forma parte de nuestra sociedad y está profundamente integrado en las infraestructuras y los sistemas que determinan nuestras acciones cotidianas. Además, el software tiene una dimensión cultural que conecta con el deseo de crear y manipular el mundo por medio de la palabra o de un conjunto de códigos.</description>
     </item>
     
+    <item>
+      <title>Mi Ruta de aprendizaje en Launch X</title>
+      <link>https://marceloreyran.github.io/My_Blog/posts/post_1/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marceloreyran.github.io/My_Blog/posts/post_1/</guid>
+      <description>Hola! Quiero contarte todo lo que he aprendido en el este camino:
+-Logica de Programación -Python -Jupyter Notebooks -Git -GitHub -HTML -CSS -Java Script
+Gracias por leer mi post.</description>
+    </item>
+    
   </channel>
 </rss>
