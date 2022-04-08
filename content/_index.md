@@ -10,6 +10,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para esta etapa del Proyecto son:
 
+
 -Aprender de Git y Github.
 -Aplicar mis conocimientos de FrontEnd y seguir aprendiendo.
 -Aprender BackEnd y todo lo referente a esta nueva etapa.
